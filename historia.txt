@@ -1,0 +1,2 @@
+Hola soy pierina 
+Y estoy empezando desde 0 el curso de git
