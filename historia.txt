@@ -1,2 +1,2 @@
-Hola soy pierina 
+Soy Pierina Montalva
 Y estoy empezando desde 0 el curso de git
