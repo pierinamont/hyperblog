@@ -36,8 +36,12 @@ body{
 #container #post{
     padding: 8px;
 }
-<<<<<<< HEAD
-=======
+
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
 
 
->>>>>>> 6c0e811fe74d67e1480188f09ee4b6cc3a899897
